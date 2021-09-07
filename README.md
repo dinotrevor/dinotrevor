@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dinotrevor
 - 👀 I’m interested in coffee, dogs, and music.
-- 🌱 I’m currently learning Javscript.
-- 💞️ I’m looking to collaborate on Javscript Projects to put on my portfolio.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on JavaScript Projects to put on my portfolio.
 
 
 <!---
